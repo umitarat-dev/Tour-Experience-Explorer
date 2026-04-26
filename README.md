@@ -14,11 +14,11 @@ This project demonstrates modular UI architecture by utilizing stateless functio
 
 <div align="center">
   <h3>
-    <a href="https://umitarat-dev.github.io/React_Proj_Tour_Places/">
+    <a href="https://tour-experience-explorer-umitdev.vercel.app/">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React_Tour-Places.git">
+    <a href="https://github.com/umitarat-dev/Tour-Experience-Explorer.git">
       📂 Repository
     </a>
  
@@ -26,7 +26,7 @@ This project demonstrates modular UI architecture by utilizing stateless functio
 </div>
 
 <p align="center">
-  <a href="https://persistent-taskflow-umitdev.vercel.app/">
+  <a href="https://tour-experience-explorer-umitdev.vercel.app/">
     <img src="./assets/Tour-Places.gif" alt="Tour Places" width="700"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ To clone and run this application, you'll need [Git](https://github.com/Umit8098
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React_Proj_Tour_Places.git
+$ git clone https://github.com/umitarat-dev/Tour-Experience-Explorer.git
 
 
 $ yarn  
