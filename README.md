@@ -68,9 +68,9 @@ Tour data is managed through a helper file and rendered dynamically. Styling is 
 - 📄 Static data rendering from helper file.
 - 📱 Clean and responsive layout.
 - 🎯 Beginner-friendly React project structure.
-- Stateless functional components for optimized rendering.
-- Interactive hover states and transitions powered by Sass.
-- Modular SCSS structure using partials or variables.
+- 📄 Stateless functional components for optimized rendering.
+- 🎨 Interactive hover states and transitions powered by Sass.
+- 🗂️ Modular SCSS structure using partials or variables.
 
 
 
