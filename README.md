@@ -1,4 +1,9 @@
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Styling-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-Mapping-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/SASS-Styling-CC6699?logo=sass&logoColor=white" />
