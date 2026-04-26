@@ -1,0 +1,9 @@
+@use 'src/scss/_variables.scss' as vars;
+
+.header {
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    color: vars.$headerColor;
+}

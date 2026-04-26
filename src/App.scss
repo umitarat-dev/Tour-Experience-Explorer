@@ -1,0 +1,44 @@
+
+/* Global partials */
+@use "./scss/reset" as *;
+@use "./scss/mixins" as *;
+@use "./scss/variables" as vars;
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+
+body {
+  background-color: vars.$backgroundColor;
+
+  /* regular */
+  /* font-family: "Amatic SC", sans-serif;
+  font-weight: 400; */
+  
+  /*bold */
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+}
+
+p {
+  /* font-family: 'Hubballi', cursive; */
+  font-family: "Hubballi", sans-serif;
+}
+
+
+
+/* Footer Ayarları */
+.App {
+  /* footer aşağıda sabitlensin */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; // ekran yüksekliğini tamamen kapsasın
+}
+
+/* footer aşağıda sabitlensin */
+/* Main component */
+.card-container {
+  flex: 1; // boş alanı doldurur, Footer’ı alta iter
+}
